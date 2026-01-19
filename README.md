@@ -2,7 +2,7 @@
 
 <!--
 **archaeogeek/archaeogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I'm archaeogeek, otherwise known as Jo Cook, or Jo Kaye if I'm going by my married name. I live in Lancaster in the North-West of the United Kingdom. When I'm not working I can be found either half way up a rock, or under the water. Generally not both at the same time.
+I'm Archaeogeek, otherwise known as Jo Cook, or Jo Kaye if I'm going by my married name. I live in Lancaster in the North-West of the United Kingdom. When I'm not working I can be found either half way up a rock, or under the water. Generally not both at the same time.
 
 - 🔭 I’m a Geospatial Data Architect at [Fathom](https://www.fathom.global/)
 - 🌱 I’m also the Standards Liaison for the [Association of Geographic Information](https://agi.org.uk), and the Chair of the [UK Gemini Working Group](https://www.agi.org.uk/uk-gemini/)
